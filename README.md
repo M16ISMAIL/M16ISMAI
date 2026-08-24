@@ -44,11 +44,10 @@
 ---
 
 ### 📌 Featured Project
-#### 🛠️ [Quick Maintenance App (QMA)](https://github.com/M16ISMAIL/Quick-Maintenance-App)
-> A desktop maintenance management application built using JavaFX and XAMPP (MySQL) alongside a full project management business case & feasibility study.
-* 📋 **Key Features:** User-friendly GUI, database connection for service requests, feasibility analysis, cost-benefit structure, and system design.
+#### 🛠️ [Student Life Manager](https://github.com/M16ISMAIL/Student-Life-Manager-Application)
+> A desktop Student Life Manager built using JavaFX and XAMPP (MySQL) 
 * 🛠️ **Tech Stack:** Java, JavaFX, MySQL, XAMPP.
-* 🔗 **Project Link:** [View Source Code & Documentation](https://github.com/M16ISMAIL/Quick-Maintenance-App)
+* 🔗 **Project Link:** [View Source Code & Documentation](https://github.com/M16ISMAIL/Student-Life-Manager-Application)
 ---
 
 ### 📊 GitHub Statistics
