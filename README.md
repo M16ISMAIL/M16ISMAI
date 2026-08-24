@@ -47,7 +47,7 @@
 #### 🛠️ [Student Life Manager](https://github.com/M16ISMAIL/Student-Life-Manager-Application)
 > A desktop Student Life Manager built using JavaFX and XAMPP (MySQL) 
 * 🛠️ **Tech Stack:** Java, JavaFX, MySQL, XAMPP.
-* 🔗 **Project Link:** [View Source Code & Documentation](https://github.com/M16ISMAIL/Student-Life-Manager-Application/Student Life Manager)
+* 🔗 **Project Link:** [View Source Code & Documentation](https://github.com/M16ISMAIL/Student-Life-Manager-Application)
 ---
 
 ### 📊 GitHub Statistics
