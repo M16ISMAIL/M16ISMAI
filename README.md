@@ -24,10 +24,8 @@
 ---
 
 ### 👨‍💻 About Me
-* 🎓 **Education:** Software Engineering & Data Science and Artificial Intelligence Student at Applied Science Private University.
+* 🎓 **Education:** Software Engineering Student at Applied Science Private University.
 * 💻 **Core Focus:** Building strong foundations in Programming Fundamentals, Object-Oriented Programming (OOP), and Web Technologies.
-* 🎥 **Content & Media:** Creating instructional technical walkthroughs (MS Project, Numerical Analysis).
-* 🏀 **Beyond Coding:** Point Guard on the basketball court | Video Editing & Gaming enthusiast.
 
 ---
 
