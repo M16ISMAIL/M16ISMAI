@@ -5,7 +5,7 @@
   <br><br>
 
   <!-- Animated Header Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vcenter=true&width=550&lines=Hi+%F0%9F%90%8B+I'm+Muhannad+Ismail;Software+Engineering;Passionate+Developer+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vcenter=true&width=550&lines=Hi+%F0%9F%90%8B+I'm+Muhannad+Ismail;Software+Engineering+Student;Passionate+Developer+%26+Problem+Solver" alt="Typing SVG" />
 
   <br><br>
 
