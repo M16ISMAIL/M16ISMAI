@@ -44,11 +44,11 @@
 ---
 
 ### 📌 Featured Project
-#### 🛠️ [Quick Maintenance App (QMA)](#)
-> A comprehensive IT project management business case and feasibility study designed to streamline maintenance service requests and operational workflows.
-* 📋 **Highlights:** Feasibility analysis, cost-benefit structure, scheduling, and system design.
-* 🔗 **Project Link:** [View Repository / Documentation](#)
-
+#### 🛠️ [Quick Maintenance App (QMA)](https://github.com/M16ISMAIL/Quick-Maintenance-App)
+> A desktop maintenance management application built using JavaFX and XAMPP (MySQL) alongside a full project management business case & feasibility study.
+* 📋 **Key Features:** User-friendly GUI, database connection for service requests, feasibility analysis, cost-benefit structure, and system design.
+* 🛠️ **Tech Stack:** Java, JavaFX, MySQL, XAMPP.
+* 🔗 **Project Link:** [View Source Code & Documentation](https://github.com/M16ISMAIL/Quick-Maintenance-App)
 ---
 
 ### 📊 GitHub Statistics
