@@ -40,3 +40,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
+
+---
+
+### 📊 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M16ISMAIL&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
