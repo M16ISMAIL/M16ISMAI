@@ -40,18 +40,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-
----
-
-### 📌 Featured Project
-#### 🛠️ [Student Life Manager](https://github.com/M16ISMAIL/Student-Life-Manager-Application)
-> A desktop Student Life Manager built using JavaFX and XAMPP (MySQL) 
-* 🛠️ **Tech Stack:** Java, JavaFX, MySQL, XAMPP.
-* 🔗 **Project Link:** [View Source Code & Documentation](https://github.com/M16ISMAIL/Student-Life-Manager-Application)
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M16ISMAIL&theme=tokyonight&hide_border=true" />
-</div>
