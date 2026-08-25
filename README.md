@@ -2,15 +2,12 @@
   <!-- Profile Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=M16ISMAIL&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Visitor Counter" />
   
-
-
+  <br><br>
 
   <!-- Animated Header Title -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vcenter=true&width=550&lines=Hi+%F0%9F%92%BB+I'm+Muhannad+Ismail;Software+Engineering+Student;Passionate+Developer+%26+Problem+Solver" alt="Typing SVG" />
 
-  
-
-
+  <br><br>
 
   <!-- Social Media Badges -->
   <a href="https://www.linkedin.com/in/muhannad-ismail-a03352346" target="_blank">
@@ -43,11 +40,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=M16ISMAIL&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-</div>
